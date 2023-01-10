@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jsyo0OTubHorBiVaO05jl4aTuGxlyDcKxByytq6uOLmtVHUZQka1rA7u41gGu7kJCR2Y+NJhJUuj5DoNrT0Kaw==",
+  "success": true,
+  "projectFilePath": "D:\\Project-Architecture\\SampleArchitecture\\src\\services\\Architecture\\Architecture.Domain\\Architecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OM\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512",
+    "C:\\Users\\OM\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

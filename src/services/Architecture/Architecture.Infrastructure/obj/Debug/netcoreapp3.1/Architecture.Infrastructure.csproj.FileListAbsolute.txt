@@ -1,0 +1,16 @@
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Infrastructure.deps.json
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Infrastructure.runtimeconfig.json
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Infrastructure.runtimeconfig.dev.json
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Infrastructure.dll
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Infrastructure.pdb
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Domain.dll
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\bin\Debug\netcoreapp3.1\Architecture.Domain.pdb
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.csprojAssemblyReference.cache
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.AssemblyInfo.cs
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.csproj.CopyComplete
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.dll
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.pdb
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Infrastructure\obj\Debug\netcoreapp3.1\Architecture.Infrastructure.genruntimeconfig.cache

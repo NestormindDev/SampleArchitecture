@@ -1,0 +1,9 @@
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\bin\Debug\netcoreapp3.1\Architecture.Domain.deps.json
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\bin\Debug\netcoreapp3.1\Architecture.Domain.dll
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\bin\Debug\netcoreapp3.1\Architecture.Domain.pdb
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\obj\Debug\netcoreapp3.1\Architecture.Domain.csprojAssemblyReference.cache
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\obj\Debug\netcoreapp3.1\Architecture.Domain.AssemblyInfoInputs.cache
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\obj\Debug\netcoreapp3.1\Architecture.Domain.AssemblyInfo.cs
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\obj\Debug\netcoreapp3.1\Architecture.Domain.csproj.CoreCompileInputs.cache
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\obj\Debug\netcoreapp3.1\Architecture.Domain.dll
+D:\Project-Architecture\SampleArchitecture\src\services\Architecture\Architecture.Domain\obj\Debug\netcoreapp3.1\Architecture.Domain.pdb
